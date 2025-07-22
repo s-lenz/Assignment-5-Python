@@ -39,10 +39,9 @@ conda activate 5_Python_env
 Created and validated several machine learning models. 
 
 ## Notes
-- Each code block from the SciPy tutorial should be placed in its own notebook cell.
-- Include **detailed comments** for every code example.
-- Use **markdown cells** to structure and explain each section.
-- If additional Python packages are required, install them and update the `environment.yml` or `requirements.txt` file accordingly.
+- Each code block from the SciPy tutorial is  its own notebook cell.
+- Included **detailed comments** for every code example.
+- Used **markdown cells** to structure and explain each section.
 
 - ## License
 This repository is intended for educational use only.
